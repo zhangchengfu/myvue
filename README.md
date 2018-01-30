@@ -30,3 +30,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 npm run build发布代码在dist目录下
 
 npm run dev后在浏览器可以看到：http://localhost:8080
+
+学习网址：https://cloud.tencent.com/developer/column/1930
